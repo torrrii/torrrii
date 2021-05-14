@@ -1,0 +1,43 @@
+body
+
+{
+
+background:black;
+color:black;
+font-size: 30px;
+}
+#container {
+font-size:30;
+font-family: Courier, monospace;
+background:IndianRed;
+margin: 30px auto;
+width: 900px;
+height: 1000px;
+}
+#header {
+background:IndianRed ;
+font-weight: 900;
+line-height: 300%;
+text-align:center;
+font-size:70;
+height: 200px;
+width: 900px;
+}
+#menu {
+background:LightCoral;
+float: left;
+width: 200px;
+height: 600px;
+}
+#content {
+font-size:35;
+background: #DDADAF;
+float: right;
+width: 700px;
+height: 600px;
+}
+#footer {
+background: Thistle;
+height: 80px;
+width: 900px;
+}
